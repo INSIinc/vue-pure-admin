@@ -24,6 +24,16 @@ import Setting from "@iconify-icons/ri/settings-3-line";
 import Dept from "@iconify-icons/ri/git-branch-line";
 import Lollipop from "@iconify-icons/ep/lollipop";
 import Monitor from "@iconify-icons/ep/monitor";
+
+import plan from "@iconify-icons/mdi/clipboard-text-clock";
+import graph from "@iconify-icons/solar/graph-bold";
+import addCicle from "@iconify-icons/material-symbols/add-circle-rounded";
+import userManage from "@iconify-icons/ic/round-supervised-user-circle";
+import deleteRounded from "@iconify-icons/material-symbols/delete-rounded";
+import add from "@iconify-icons/material-symbols/add";
+import editRounded from "@iconify-icons/material-symbols/edit-rounded";
+import statusActive from "@iconify-icons/pajamas/status-active";
+
 addIcon("ubuntuFill", UbuntuFill);
 addIcon("menu", Menu);
 addIcon("edit", Edit);
@@ -43,3 +53,12 @@ addIcon("setting", Setting);
 addIcon("dept", Dept);
 addIcon("lollipop", Lollipop);
 addIcon("monitor", Monitor);
+
+addIcon("plan", plan);
+addIcon("graph", graph);
+addIcon("addCircle", addCicle);
+addIcon("userManage", userManage);
+addIcon("deleteRounded", deleteRounded);
+addIcon("add", add);
+addIcon("editRounded", editRounded);
+addIcon("statusActive", statusActive);
